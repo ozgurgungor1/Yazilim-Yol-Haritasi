@@ -169,7 +169,3 @@ Pull request’ler ve katkılar memnuniyetle karşılanır:
 🔗 [GitHub](https://github.com/ozgurgungor1)  
 🔗 [LinkedIn](https://linkedin.com/in/kullaniciadiniz)
 
----
-
-> Bu yol haritasını istikrarlı şekilde takip ederek, 6 ay içinde freelance işlere başvurabilecek seviyeye gelmen mümkündür.  
-> **Hadi başlayalım! 💪**
