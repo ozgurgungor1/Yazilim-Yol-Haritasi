@@ -1,130 +1,74 @@
-# Yazilim-Yol-Haritasi
-Hedef: Python + Backend + Cloud + API Projeleri + Remote İş
+# 🧠 Yazılım Yol Haritası – 6 Aylık Eğitim Planı 🚀  
+**Hedef:** Python + Backend + Cloud + API Projeleri + Remote İş
 
+---
 
+## 📌 Proje Tanımı  
+Bu repo, sıfırdan yazılıma başlamak isteyenler için hazırlanmış, adım adım ilerleyen 6 aylık bir eğitim ve proje geliştirme yol haritasıdır.  
+Amacın; backend yazılım geliştirmeyi öğrenmek, güçlü bir portföy oluşturmak ve freelance veya remote pozisyonlara başvuru yapabilecek seviyeye gelmek.
 
-✅ Ay 1 – Python Temelleri + Programlama Mantığı
-Bu ay amacın programlama dünyasına alışmak. Kodlama temellerini öğren.
+---
 
-Kazanımlar:
+## 👋 Kimler İçin?
 
-Değişkenler, veri tipleri (int, str, list, dict, vs.)
+- Hiç kodlama bilmeyen ama başlamak isteyenler  
+- Kendi başına proje geliştirerek öğrenmek isteyenler  
+- GitHub portföyünü zenginleştirmek isteyen junior geliştiriciler  
+- Remote veya freelance çalışmayı hedefleyenler
 
-Koşullar (if-else), döngüler (for, while)
+---
 
-Fonksiyonlar ve hata yönetimi
+## 🗓️ 6 Aylık Plan
 
-Kod okuma ve yazma becerisi
+| Ay | Konu | Hedef |
+|----|------|-------|
+| 1  | Python Temelleri | Kodlama mantığını kavramak |
+| 2  | İleri Python + OOP | Projelere hazırlık, GitHub kullanımı |
+| 3  | Flask/Django + API | Web uygulamaları geliştirmek |
+| 4  | DB + Docker | Cloud deploy, profesyonel projeler |
+| 5  | AWS + CI/CD | Otomasyon ve portföy tamamlama |
+| 6  | AI API’leri | Modern projeler, başvuru süreci |
 
-Basit komut satırı uygulamaları
+---
 
-Mini Projeler:
+## ⚙️ Nasıl Kullanılır?
 
-Hesap makinesi
+1. `01-python-temelleri` klasöründen başlayarak sırayla her klasörü takip edin  
+2. Her klasördeki `notlar.md` dosyalarını okuyarak teorik bilgi edinin  
+3. `mini-projeler` klasöründe yer alan uygulamaları yaparak pratiğinizi artırın  
+4. Kendi GitHub hesabınıza bu projeleri yükleyin, commit mesajlarını düzenli yazın  
+5. 6 ay sonunda hem GitHub portföyünüz hem becerileriniz gelişmiş olacak
 
-Not defteri
+---
 
-Basit yapılacaklar listesi (console)
+## 🎯 Öğrenecekleriniz
 
-Kaynaklar:
+✅ Python programlama temelleri  
+✅ Flask/Django ile web uygulamaları  
+✅ PostgreSQL/MongoDB veritabanı kullanımı  
+✅ Docker ile uygulama paketleme  
+✅ AWS + CI/CD süreçleri  
+✅ OpenAI API’leriyle yapay zeka destekli uygulamalar  
+✅ Projelerinizi internette yayınlama  
+✅ GitHub portföyü, CV ve LinkedIn hazırlığı
 
-YouTube: Mert Mekatronik, Kodlama Vakti
+---
 
-w3schools Python, freeCodeCamp
+## 🤝 Katkı Sağlamak
 
-✅ Ay 2 – İleri Python + OOP + Versiyon Kontrolü (Git)
-Bu ay gerçek projelere hazırlık yapacaksın. Kodları daha düzenli yazmayı, yapıları modüllere bölmeyi öğreneceksin.
+Eğer bu yol haritasına katkıda bulunmak isterseniz:  
+- Yeni kaynaklar ekleyebilir  
+- Hatalı veya eksik kısımları güncelleyebilir  
+- Yeni mini projelerle içeriği zenginleştirebilirsiniz
 
-Kazanımlar:
+Pull request’lere açığım ✨
 
-Nesne yönelimli programlama (OOP)
+---
 
-Modüller, dosya işlemleri
+## 💬 İletişim
 
-Git ve GitHub kullanımı (commit, push, repo oluşturma)
+Geliştirici: *ÖZGÜR GÜNGÖR*  
+LinkedIn: [linkedin.com/in/kullaniciadiniz](https://linkedin.com/in/kullaniciadiniz)  
+GitHub: [github.com/kullaniciadiniz](https://github.com/kullaniciadiniz)
 
-Mini Projeler:
-
-Kütüphane sistemi (sınıflarla)
-
-GitHub’da ilk projeni paylaş
-
-✅ Ay 3 – Web Backend: Flask veya Django + REST API
-Artık web üzerinden çalışan servisler oluşturmayı öğreneceksin. Web’in arka yüzü (backend) senin işin olacak.
-
-Kazanımlar:
-
-Flask veya Django framework’ü
-
-REST API yapısı
-
-CRUD işlemleri (veri ekle/sil/güncelle)
-
-Postman kullanımı
-
-Mini Projeler:
-
-Blog API’si (kullanıcı giriş/kayıt, JWT token ile güvenlik)
-
-Basit not alma uygulaması (API destekli)
-
-✅ Ay 4 – Veritabanı + Docker + Uygulama Yayınlama
-Uygulamanın verilerini veritabanında tutmayı ve projeyi internete koymayı öğreneceksin.
-
-Kazanımlar:
-
-PostgreSQL veya MongoDB kullanımı
-
-ORM (SQLAlchemy veya Django ORM)
-
-Docker ile uygulama konteyneri oluşturma
-
-Render, Railway veya Vercel gibi servislerde yayınlama
-
-Mini Proje:
-
-Kullanıcılı yapılacaklar listesi (login + database + cloud yayında)
-
-✅ Ay 5 – Bulut Sistemleri (AWS) + CI/CD + CV Hazırlığı
-Artık projeni profesyonel seviyeye çıkarıyorsun. Gerçek bir geliştirici gibi çalışmayı öğreniyorsun.
-
-Kazanımlar:
-
-AWS EC2, S3, RDS gibi servisleri kullanma
-
-GitHub Actions ile otomatik deployment (CI/CD)
-
-LinkedIn & GitHub portföy düzenleme
-
-Proje dökümantasyonu ve teknik CV
-
-Mini Proje:
-
-Kendi portföy siteni Flask ile geliştir, AWS’ye yükle
-
-✅ Ay 6 – Yapay Zekâ API’leri + İş Başvuruları
-Son ayda güncel ve havalı projeler geliştirerek iş başvurularına başlıyorsun.
-
-Kazanımlar:
-
-OpenAI, HuggingFace API kullanımı
-
-Python ile dış servislerden veri alma (HTTP istekleri)
-
-İş görüşmesi hazırlıkları (mock interview, teknik sorular)
-
-Proje Örnekleri:
-
-ChatGPT destekli chatbot
-
-PDF özetleyen web uygulaması
-
-Yorumlardan duygu analizi yapan sistem
-
-🎓 6 Ayın Sonunda Ne Olacak?
-✅ En az 5 sağlam GitHub projesi
-✅ Temel ve orta seviye backend bilgisi
-✅ Cloud’a deploy edilmiş uygulamalar
-✅ İngilizce kaynak okuma alışkanlığı
-✅ Freelance ve remote işlere başvurabilecek düzey
-
+---
