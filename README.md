@@ -69,6 +69,6 @@ Pull request’lere açığım ✨
 
 Geliştirici: *ÖZGÜR GÜNGÖR*  
 LinkedIn: [linkedin.com/in/kullaniciadiniz](https://linkedin.com/in/kullaniciadiniz)  
-GitHub: [github.com/kullaniciadiniz](https://github.com/kullaniciadiniz)
+GitHub: [github.com/ozgurgungor1](https://github.com/ozgurgungor1)
 
 ---
