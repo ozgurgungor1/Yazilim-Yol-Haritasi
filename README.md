@@ -18,57 +18,137 @@ Amacın; backend yazılım geliştirmeyi öğrenmek, güçlü bir portföy oluş
 
 ---
 
-## 🗓️ 6 Aylık Plan
+## 🗓️ 6 Aylık Genel Plan
 
 | Ay | Konu | Hedef |
 |----|------|-------|
 | 1  | Python Temelleri | Kodlama mantığını kavramak |
 | 2  | İleri Python + OOP | Projelere hazırlık, GitHub kullanımı |
 | 3  | Flask/Django + API | Web uygulamaları geliştirmek |
-| 4  | DB + Docker | Cloud deploy, profesyonel projeler |
+| 4  | Veritabanı + Docker | Cloud deploy, profesyonel projeler |
 | 5  | AWS + CI/CD | Otomasyon ve portföy tamamlama |
 | 6  | AI API’leri | Modern projeler, başvuru süreci |
 
 ---
 
-## ⚙️ Nasıl Kullanılır?
+## 📚 Detaylı Aylık Konular
 
-1. `01-python-temelleri` klasöründen başlayarak sırayla her klasörü takip edin  
-2. Her klasördeki `notlar.md` dosyalarını okuyarak teorik bilgi edinin  
-3. `mini-projeler` klasöründe yer alan uygulamaları yaparak pratiğinizi artırın  
-4. Kendi GitHub hesabınıza bu projeleri yükleyin, commit mesajlarını düzenli yazın  
-5. 6 ay sonunda hem GitHub portföyünüz hem becerileriniz gelişmiş olacak
+### ✅ Ay 1 – Python Temelleri + Programlama Mantığı  
+**Kazanımlar:**
+- Değişkenler, veri tipleri (int, str, list, dict, vs.)
+- Koşullar (if-else), döngüler (for, while)
+- Fonksiyonlar, hata yönetimi
+- Kod okuma-yazma pratiği
+
+**Mini Projeler:**
+- Hesap makinesi  
+- Not defteri  
+- Console yapılacaklar listesi  
+
+**Kaynaklar:**
+- YouTube: Mert Mekatronik, Kodlama Vakti  
+- Web: w3schools, FreeCodeCamp Python  
 
 ---
 
-## 🎯 Öğrenecekleriniz
+### ✅ Ay 2 – İleri Python + OOP + Git/GitHub  
+**Kazanımlar:**
+- Nesne yönelimli programlama (OOP)  
+- Dosya işlemleri, modüler kod yapısı  
+- Git ve GitHub kullanımı (commit, push, repo yönetimi)  
 
-✅ Python programlama temelleri  
-✅ Flask/Django ile web uygulamaları  
-✅ PostgreSQL/MongoDB veritabanı kullanımı  
-✅ Docker ile uygulama paketleme  
-✅ AWS + CI/CD süreçleri  
-✅ OpenAI API’leriyle yapay zeka destekli uygulamalar  
-✅ Projelerinizi internette yayınlama  
-✅ GitHub portföyü, CV ve LinkedIn hazırlığı
+**Mini Projeler:**
+- OOP ile kütüphane sistemi  
+- GitHub’da ilk proje yayını  
+
+---
+
+### ✅ Ay 3 – Web Backend: Flask/Django + REST API  
+**Kazanımlar:**
+- Flask veya Django kullanımı  
+- REST API yapısı  
+- CRUD işlemleri  
+- Postman ile API testleri  
+
+**Mini Projeler:**
+- Blog API (JWT authentication dahil)  
+- Not alma uygulaması (API tabanlı)  
+
+---
+
+### ✅ Ay 4 – Veritabanı + Docker + Yayınlama  
+**Kazanımlar:**
+- PostgreSQL veya MongoDB  
+- ORM kullanımı (SQLAlchemy / Django ORM)  
+- Docker ile container oluşturma  
+- Uygulama deploy (Render, Railway, Vercel)  
+
+**Mini Proje:**
+- Login + database bağlantılı yapılacaklar uygulaması  
+
+---
+
+### ✅ Ay 5 – AWS + CI/CD + CV & Portföy  
+**Kazanımlar:**
+- AWS EC2, S3, RDS servisleri  
+- GitHub Actions ile otomasyon (CI/CD)  
+- LinkedIn & GitHub düzenleme  
+- Teknik CV ve proje dökümantasyonu  
+
+**Mini Proje:**
+- Flask ile portföy sitesi → AWS'ye deploy  
+
+---
+
+### ✅ Ay 6 – AI API’leri + İş Başvuruları  
+**Kazanımlar:**
+- OpenAI, HuggingFace API kullanımı  
+- HTTP istekleriyle dış veri alma  
+- Teknik mülakatlara hazırlık  
+
+**Proje Örnekleri:**
+- ChatGPT tabanlı chatbot  
+- PDF özetleme uygulaması  
+- Duygu analizi yapan yorum aracı  
+
+---
+
+## 🎓 6 Ayın Sonunda Ne Kazanacaksın?
+
+✅ En az 5 sağlam GitHub projesi  
+✅ Orta seviye backend bilgisi  
+✅ Yayında çalışan projeler  
+✅ Teknik CV + LinkedIn profili  
+✅ İngilizce teknik dökümantasyon okuma alışkanlığı  
+✅ Freelance ve remote iş başvurusu yapabilecek düzey  
+
+---
+
+## ⚙️ Nasıl Kullanılır?
+
+1. `01-python-temelleri` klasöründen başlayın  
+2. Her klasördeki `notlar.md` dosyasını okuyun  
+3. `mini-projeler` klasörünü takip edin, kendiniz uygulayın  
+4. Projeleri GitHub hesabınızda paylaşın  
+5. Düzenli commit ve ilerleme günlüğü tutun  
 
 ---
 
 ## 🤝 Katkı Sağlamak
 
-Eğer bu yol haritasına katkıda bulunmak isterseniz:  
-- Yeni kaynaklar ekleyebilir  
-- Hatalı veya eksik kısımları güncelleyebilir  
-- Yeni mini projelerle içeriği zenginleştirebilirsiniz
-
-Pull request’lere açığım ✨
+Pull request’ler ve katkılar memnuniyetle karşılanır:  
+- Yeni kaynaklar  
+- Hata düzeltmeleri  
+- Ek mini projeler  
 
 ---
 
 ## 💬 İletişim
 
-Geliştirici: *ÖZGÜR GÜNGÖR*  
-LinkedIn: [linkedin.com/in/kullaniciadiniz](https://linkedin.com/in/kullaniciadiniz)  
-GitHub: [github.com/ozgurgungor1](https://github.com/ozgurgungor1)
+**Geliştirici:** Özgür Güngör  
+🔗 [GitHub](https://github.com/ozgurgungor1)  
+🔗 [LinkedIn](https://linkedin.com/in/kullaniciadiniz)
 
 ---
+
+> Bu yol haritasını istikrarlı şekilde takip ederek, 6 ay içinde freelance işlere başvurabilecek seviyeye gelmen mümkündür. Hadi başlayalım! 💪
